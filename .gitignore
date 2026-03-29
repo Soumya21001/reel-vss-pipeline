@@ -1,0 +1,15 @@
+vssenv/
+__pycache__/
+.ipynb_checkpoints/
+tmp/
+output/
+.DS_Store
+*.pyc
+AudioCLIP/assets/AudioCLIP-Full-Training.pt
+AudioCLIP/assets/AudioCLIP-Full-Training.pt
+AudioCLIP/.gitattributes
+AudioCLIP/assets/CLIP.pt
+AudioCLIP/assets/ESRNXFBSP.pt
+AudioCLIP/assets/README.md
+AudioCLIP/assets/AudioCLIP-Partial-Training.pt
+AudioCLIP/assets/AudioCLIP-Full-Training.pt
